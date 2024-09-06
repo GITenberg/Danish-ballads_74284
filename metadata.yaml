@@ -1,0 +1,33 @@
+_repo: Danish-ballads_74284
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Smith-Dampier, E. M. (Eleanor Mary‏)
+    alias: Smith-Dampier, Eleanor Mary‏
+    gutenberg_agent_id: '53740'
+    url: http://www.gutenberg.org/2009/agents/53740
+description: ''
+gutenberg_issued: '2024-08-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '74284'
+  lccn: '20016945'
+language: en
+pgterms:marc904: https://archive.org/details/danishballads00smitiala/page/n5/mode/2up
+pgterms:marc905: 20210805133630smithdampi
+pgterms:marc906: '1920'
+pgterms:marc907: GB
+production_note: Charlene Taylor and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive/American
+  Libraries.)
+publication_note: '  $aCambridge :$bCambridge at the University Press, $c1920.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Danish poetry -- Translations into English'
+- !lcsh 'Ballads, Danish -- Translations into English'
+- !lcc 'PT'
+- GITenberg
+title: Danish ballads
+url: http://www.gutenberg.org/ebooks/74284
