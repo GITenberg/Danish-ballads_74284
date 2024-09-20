@@ -6,7 +6,12 @@ contributor:
     alias: Smith-Dampier, Eleanor Mary‏
     gutenberg_agent_id: '53740'
     url: http://www.gutenberg.org/2009/agents/53740
+covers:
+- cover_type: archival
+  image_path: 74284-h/images/cover.jpg
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/74284#Danish-ballads
 gutenberg_issued: '2024-08-20'
 gutenberg_type: Text
 identifiers:
